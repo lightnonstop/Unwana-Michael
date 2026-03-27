@@ -14,7 +14,7 @@
 - Cloud fundamentals on AWS (IAM, VPC, EC2)
 
 ## 📁 My Lab Work
-All my dicumented labs are here [E101-Enterprise-Design](link)
+All my documented labs are here [E101-Enterprise-Design](link)
 
 ## 📬 Contact
 [Connect with me on LinkedIn](https://www.linkedin.com/in/unwana-edet-02139a3b8) | [Email me via Gmail](mailto:cybersolas@gmail.com)
