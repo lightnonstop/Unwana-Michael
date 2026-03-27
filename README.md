@@ -23,8 +23,4 @@
 
 
 ## 📬 Contact
-<a href="linkedin.com/in/unwana-edet-02139a3b8"></a> | <a href="mailto:cybersolas@gmail.com"></a>
-
-
-
 [Connect with me on LinkedIn](linkedin.com/in/unwana-edet-02139a3b8) | [Email me via Gmail](mailto:cybersolas@gmail.com)
