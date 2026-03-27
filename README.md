@@ -1,26 +1,20 @@
 # Hi, I'm Unwana Michael 👋
 
-🎓 Computer Engineering Student | University of Uyo, Nigeria  
-🔐 Cybersecurity Home Lab Builder (projectsecurity.io — E101, NA101, CA101)  
-📓 I document every lab, fix, and experiment I run  
-🌍 Based in Nigeria | Open to onsite and remote internships & collaborations
+🎓 Computer Engineering Student — Nigeria
+🔐 Building cybersecurity skills through hands-on home labs
+🧪 Currently working through E101, NA101, CA101 on projectsecurity.io
+📓 I document every lab, every fix, every experiment I run
 
 ---
 
-## 🧪 What I'm Currently Learning
+## 🧪 What I'm Learning
 - Virtualization & VM deployment (VirtualBox, VMware)
 - Network attacks & defenses (MiTM, DoS, IDS/IPS, Firewalls)
 - SIEM setup with Wazuh
 - Cloud fundamentals on AWS (IAM, VPC, EC2)
 
-## 📁 My Lab Repositories
-| Repo | Description |
-|------|-------------|
-| [E101-Labs](link) | VM provisioning, cyber attack simulations, Wazuh SIEM |
-| [NA101-Labs](link) | Network attacks, Docker containers, pfSense, Suricata |
-| [CA101-Labs](link) | AWS IAM, EC2, VPC setup |
-
-
+## 📁 My Lab Work
+All my dicumented labs are here [E101-Enterprise-Design](link)
 
 ## 📬 Contact
 [Connect with me on LinkedIn](https://www.linkedin.com/in/unwana-edet-02139a3b8) | [Email me via Gmail](mailto:cybersolas@gmail.com)
