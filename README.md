@@ -21,9 +21,4 @@
 | [CA101-Labs](link) | AWS IAM, EC2, VPC setup |
 
 ## 📬 Contact
-<a href="linkedin.com/in/unwana-edet-02139a3b8"><img src="https://skillicons.dev" ></a>
-
-<img src="https://cdn.jsdelivr.net" alt="Gmail" width="32" height="32"/>
-
-[![LinkedIn Badge](https://img.shields.io)](http://linkedin.com/in/unwana-edet-02139a3b8) | 
-[![Gmail](https://img.shields.io)](mailto:cybersolas@gmail.com)
+<a href="linkedin.com/in/unwana-edet-02139a3b8"></a> | <a href="mailto:cybersolas@gmail.com"></a>
