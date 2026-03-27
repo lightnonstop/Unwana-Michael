@@ -17,4 +17,4 @@
 All my documented labs are here [E101-Enterprise-Design](link)
 
 ## 📬 Contact
-[Connect with me on LinkedIn](https://www.linkedin.com/in/unwana-edet-02139a3b8) | [Email me via Gmail](mailto:cybersolas@gmail.com)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/unwana-edet-02139a3b8) | [Email me via Gmail](mailto:umichaeledet003@gmail.com)
