@@ -1,16 +1,14 @@
 # Unwana Michael
 
 Computer Engineering student at University of Uyo, Nigeria.
-Building a blue team portfolio from scratch — no paid platforms,
-no shortcuts, just documented lab work and real tools.
+Building, investigating and documenting lab work using real security industry tools.
 
 ---
 
 ## What I'm building
 
-I'm working through a 12-month self-directed blue team program covering
-network forensics, memory forensics, cloud security, detection engineering,
-and threat hunting. Everything I do gets documented and pushed here.
+I'm studying and experimenting by covering network forensics, memory forensics, cloud security, 
+detection engineering, and threat hunting. Everything I do gets documented and pushed here.
 
 **Completed so far:**
 - Analysed 3 real malware PCAPs from Malware Traffic Analysis — STRRAT,
